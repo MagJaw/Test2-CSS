@@ -1,4 +1,25 @@
+/********************************
+*
+*Author: Shaun AKA the Net Ninja
+*Date: 3.06.15
+*
+***********************************/
+
+
+
+/* Style all p tags */
+
 p {
      font-size: 18px;
-     color: blue;
+     color: red;
+}
+
+#header p {
+    font-size: 24 px;
+}
+
+/* Style all header tags */
+
+h1 {
+    font-size: 44px;
 }
