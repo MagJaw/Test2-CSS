@@ -1,18 +1,15 @@
-/*TARGETING ELEMENTS / TAGS */
-h2 {
-    font-size: 24px;
+#main-content p {
+     color: red;
 }
 
-#content-header{
-        font-size: 18 px;
-        color: red;
+p {
+    color: black;
 }
 
-span {
-    display: block;
-    color: blue;
+.test {
+    color: green;
 }
 
-.deck {
-    color: red;
+strong {
+    color: green;
 }
