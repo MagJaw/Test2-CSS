@@ -1,3 +1,11 @@
-article h2, article p {
-    font-family: Arial, Helvetica, sans-serif;
+#header {
+    text-transform: capitalize;
+}
+
+body {
+    text-transform: uppercase;
+}
+
+body > p {
+    text-transform: none;
 }
