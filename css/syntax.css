@@ -1,7 +1,11 @@
-article.featured-content{
-    background: red;
+article {
+    font-size: 16px;
 }
 
-div.featured-content{
-    background: blue;
+article {
+    font-size: 4em;
+}
+
+article p {
+    font-size: 500%;
 }
